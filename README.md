@@ -31,7 +31,7 @@ For questions, bug reports, or feature requests:
 
 - Email: contacto@raxelion.com
 - Website: https://raxelion.com
-- Issues: https://github.com/raxelion/moodle-smartsmtp/issues
+- Issues: https://github.com/raxelion/moodle-message_smartsmtp/issues
 
 ## License
 
