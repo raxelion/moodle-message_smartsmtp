@@ -131,7 +131,7 @@ class message_output_smartsmtp extends message_output {
          * Returns the default messaging settings for this processor.
          */
     public function get_default_messaging_settings(): int {
-        return MESSAGE_DEFAULT_PERMITTED;
+        return MESSAGE_PERMITTED + MESSAGE_DEFAULT_ENABLED;
     }
 
         /**

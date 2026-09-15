@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'message_smartsmtp';
-$plugin->version   = 2026071100;
+$plugin->version   = 2026091500;
 $plugin->requires  = 2024100700;
 $plugin->maturity  = MATURITY_STABLE;
 $plugin->release   = '1.0.0';
